@@ -1,4 +1,4 @@
-version: v1.0.0.22
+version: v1.0.0.212
 eureka:
   client:
     service-url:
